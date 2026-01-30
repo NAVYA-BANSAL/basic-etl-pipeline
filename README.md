@@ -1,7 +1,6 @@
 # Covid-19 Infection ETL Project
-By Sanjoy Biswas
 
-#Basic ETL Pipeline
+# Basic ETL Pipeline
 A beginner-level ETL pipeline built using Python.
 
 ## Project Proposal
